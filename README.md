@@ -1,6 +1,6 @@
 ### hi there!
 
-I'm [Alice](https://www.linkedin.com/in/alice-park-seoyoung/), a current undergraduate student @ UC San Diego studying Mathematics-Computer Science & Data Science! I (am)... 
+I'm [Alice](https://www.linkedin.com/in/alice-park-seoyoung/), a current undergraduate student @ UC San Diego studying Data Science! I (am)... 
 * An aspiring Product Manager / Software Engineer
 * Passionate about consumer tech that builds community
 * Like to play video games & explore coffee shops!
